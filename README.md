@@ -3,6 +3,7 @@
 ## Important must knows 
 To run a C program, always do the following commands on your mac terminal step by step: 
 Run your filename as follow:
+
     gcc -o HelloWorld helloworld.c 
     
 The above command is where helloworld.c is the name of your program that you would like to run.
@@ -18,3 +19,8 @@ To add a submodule, please create a branch first
 git add the module
 git commit 
 git push 
+Add your own branch before pushing to the main brnach
+
+## Contents 
+Week 1 C language CSE: Refer to the advanced repository located in the Cprogramming/.vscode directory 
+Week 2 coming soon
